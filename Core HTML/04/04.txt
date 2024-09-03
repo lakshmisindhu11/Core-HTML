@@ -1,0 +1,45 @@
+<a>: The anchor tag is used to create a hyperlink to another webpage or email address. It can also be used to link to a specific section within a webpage.
+
+<b>: The bold tag is used to display text in a bold font style.
+
+<body>: The body tag defines the main content area of an HTML document.
+
+<br>: The line break tag is used to insert a single line break in a paragraph of text.
+
+<button>: The button tag is used to create a clickable button on a webpage.
+
+<div>: The division tag is used to group elements together for styling or layout purposes.
+
+<h1-6>: The heading tags (h1, h2, h3, h4, h5, and h6) are used to define headings on a webpage, with h1 being the most important and h6 being the least important.
+
+<head>: The head tag defines the metadata of an HTML document, including the title, charset, and links to external stylesheets or scripts.
+
+<html>: The html tag is the root element of an HTML document, containing all the other elements.
+
+<i>: The italic tag is used to display text in an italic font style.
+
+<img>: The image tag is used to embed an image on a webpage.
+
+<li>: The list item tag is used to define an item in an ordered or unordered list.
+
+<link>: The link tag is used to link to an external stylesheet or script.
+
+<ol>: The ordered list tag is used to define an ordered list of items.
+
+<p>: The paragraph tag is used to define a paragraph of text.
+
+<script>: The script tag is used to embed a script, such as JavaScript, on a webpage.
+
+<style>: The style tag is used to define internal styles for an HTML document.
+
+<table>: The table tag is used to define a table on a webpage.
+
+<td>: The table data tag is used to define a cell in a table.
+
+<th>: The table header tag is used to define a header cell in a table.
+
+<title>: The title tag is used to define the title of an HTML document, which appears in the browser's title bar and in search engine results.
+
+<tr>: The table row tag is used to define a row in a table.
+
+<ul>: The unordered list tag is used to define an unordered list of items.
